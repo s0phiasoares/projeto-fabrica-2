@@ -12,7 +12,7 @@ Um mini-projeto em **Python** que calcula o **salário total do mês** a partir 
 
 ---
 
-## 📝 Enunciado (versão estilizada)
+## 📝 Enunciado
 Você foi convidado a desenvolver uma **Calculadora de Salário Mensal** para sua turma. Seu programa deve:
 1. Perguntar **quanto você ganha por hora** (ex.: 25.50).
 2. Perguntar **quantas horas trabalhou no mês** (ex.: 160).
