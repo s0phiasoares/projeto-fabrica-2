@@ -14,5 +14,4 @@ if btn_calcular:
     salario_liquido = salario_bruto - desconto_inss
 
 
-    st.write (f"💲O Seu Salario Liquido é De R$ {salario_bruto:.2f}")
-    
+    st.write (f"💲O Seu Salario Liquido é De R$ {salario_liquido:.2f}")
