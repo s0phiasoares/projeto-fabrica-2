@@ -70,7 +70,7 @@ python -m unittest
 ## 🚀 Extensões sugeridas
 - Calcular **salário bruto**, **descontos** (INSS, IR) e **salário líquido**.
 - Aceitar **carga horária semanal** e calcular horas do mês automaticamente.
-- Interface gráfica simples com **Tkinter**.
+- Interface gráfica simples com **Tkinter** ou **Streamlit**.
 - Internacionalização (mensagens em **pt**/**en**).
 
 ---
